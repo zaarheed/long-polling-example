@@ -1,0 +1,11 @@
+{
+  "name": "long-polling-example",
+  "version": "0.0.1",
+  "description": "A NodeJS/Vue implentation to demonstate long-polling where sockets or incoming HTTP/S requests are not supported.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Zahid Mahmood <zahid@zmdev.com>",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
